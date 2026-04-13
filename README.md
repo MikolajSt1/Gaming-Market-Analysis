@@ -10,7 +10,7 @@ This project is an interactive Power BI dashboard designed to analyze global vid
 ### 1. Main Dashboard
 *(Overview of total sales, top publishers by revenue, genre popularity, and platform distribution)*
 
-![Main Dashboard](dashboard.jpg)
+![Main Dashboard](dashboard.png)
 
 ### 2. Decomposition Tree (AI Visual)
 *(Deep dive analysis breaking down global sales by Publisher, Genre, and specific gaming Platforms)*
